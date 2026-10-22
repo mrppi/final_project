@@ -1,7 +1,7 @@
 // =========================
 // API URL (Change this)
 // =========================
-const API_URL = "https://shajeda-std-db.onrender.com";
+const API_URL = "https://final-project-f9jq.onrender.com";
 const STUDENTS_URL = `${API_URL}/students/`;
 
 // =========================
